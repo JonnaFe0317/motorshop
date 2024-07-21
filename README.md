@@ -20,7 +20,7 @@ To install and run this application locally, follow these steps:
 
 1. Clone the repository:
     
-    git clone https://github.com/JonnaFe0317/KEKOMARZ-motor-shop.git
+    git clone https://github.com/JustinePaulMoreno/motorshop.git
     cd motor-shop-store
     
 
