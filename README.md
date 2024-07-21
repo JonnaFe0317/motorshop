@@ -15,6 +15,9 @@ Welcome to the Motor Shop Store! This application allows users to browse, search
 - Product Details: View detailed information about each product, including price, specifications, and availability.
 - Favorites: Add products to your favorites and manage quantities.
 
+## Screenshots
+![f9743d46-0200-4cf7-a4fc-8dc2c6611479](https://github.com/user-attachments/assets/997fae5e-3872-4755-9303-b46b546adb3c)
+
 ## Installation
 To install and run this application locally, follow these steps:
 
